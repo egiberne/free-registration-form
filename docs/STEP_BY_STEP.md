@@ -18,3 +18,10 @@ Add an h1 element
 ## Step 7
 
 Add an paragraph element to encourage users to register
+
+## Step 8
+
+Add the body a width and a height.
+
+## Step 9
+
