@@ -38,3 +38,6 @@ Add a form with an action attribute targeting https://register-demo.freecodecamp
 ## Step 12
 
 Add a method attribute to send your form data via a POST request.
+
+## Step 13
+Add three fieldset elements within the form element.
