@@ -26,3 +26,11 @@ Add the body a width  of `100%` and a height of `100vh`.
 ## Step 9
 
 Add margin to **0** in the body.
+
+## Step 10
+
+Add a background color of `#1b1b32` and a text color of `#f5f6f7` to the body.
+
+## Step 11
+
+
