@@ -17,11 +17,12 @@ Add an h1 element
 
 ## Step 7
 
-Add an paragraph element to encourage users to register
+Add an paragraph element to encourage users to register.
 
 ## Step 8
 
-Add the body a width and a height.
+Add the body a width  of `100%` and a height of `100vh`.
 
 ## Step 9
 
+Add margin to **0** in the body.
